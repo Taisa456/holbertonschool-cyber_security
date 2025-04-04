@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(sha256sum "$1" | awk '{ print $1 }')" == "$2" && echo "ok" || echo "invalid"
+echo "$2  $1" | sha256sum -c --quiet && echo "ok" || echo "invalid"
