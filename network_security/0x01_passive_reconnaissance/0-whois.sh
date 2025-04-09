@@ -1,2 +1,2 @@
 #!/bin/bash 
-whois "$1" > temp.txt | echo "Section,Name,Email,Org,Phone";
+whois "$1" > temp.txt | echo "Registrant Information , Admin Information , Tech Information";
