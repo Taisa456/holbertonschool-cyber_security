@@ -1,2 +1,2 @@
 #!/bin/bash 
-whois "$1" | grep -E "Registrant|Admin|Tech" > output.csv
+whois google.com | grep -E "Registrant|Admin|Tech" > output.csv
