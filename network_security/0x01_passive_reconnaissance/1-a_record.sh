@@ -1,2 +1,2 @@
 #!/bin/bash
-nslookup "$" 
+nslookup -type=A "$DOMAIN" 
