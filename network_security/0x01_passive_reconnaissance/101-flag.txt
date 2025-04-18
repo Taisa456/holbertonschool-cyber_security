@@ -1,2 +1,2 @@
-home.passive.hbtn
-holberton.passive.hbtn
+home.passive.hbtn.
+holberton.passive.hbtn.
