@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 flag=bc41162998d0f50aa29b2126081fb69d
+=======
+Holberton Sec Lab - 9e7456a0d93567b92a7fe6b666b82743
+>>>>>>> 25758a8 (CTF)
