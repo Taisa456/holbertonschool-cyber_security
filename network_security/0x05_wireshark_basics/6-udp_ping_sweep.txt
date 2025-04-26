@@ -1,1 +1,1 @@
-udp and not icmp
+udp and udp.dstport > 1023
