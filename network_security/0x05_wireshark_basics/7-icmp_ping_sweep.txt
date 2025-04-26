@@ -1,1 +1,1 @@
-icmp and icmp.type == 8 and icmp.length == 42
+icmp.type == 8
